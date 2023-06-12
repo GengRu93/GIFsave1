@@ -14,12 +14,12 @@ If the dynamic demos cannot be loaded, you can also download the file to view th
 There are four dynamic demos, and web page loading may take some time.
 
 <div id="header" align="center">
-  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFpu_SGHN.gif" width="400" height="400"/>
-<img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFpu_SHNN.gif" width="400" height="400"/>
+  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SGHN.gif" width="400" height="400"/>
+<img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SHNN.gif" width="400" height="400"/>
    </div>
    <div id="header" align="center">
- <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFpu_HNN.gif" width="400" height="400"/>
-  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFpu_NODE.gif" width="400" height="400"/>
+ <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_HNN.gif" width="400" height="400"/>
+  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_NODE.gif" width="400" height="400"/>
   </div>
   
  # 2D zigzag system
