@@ -17,6 +17,10 @@ There are four dynamic demos, and web page loading may take some time.
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SGHN.gif" width="400" height="400"/>
 <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SHNN.gif" width="400" height="400"/>
    </div>
+  <div id="header" align="center">
+  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SympNetG.gif" width="400" height="400"/>
+<img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SympNetLA.gif" width="400" height="400"/>
+   </div>
    <div id="header" align="center">
  <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_HNN.gif" width="400" height="400"/>
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_NODE.gif" width="400" height="400"/>
@@ -29,6 +33,10 @@ There are four dynamic demos, and web page loading may take some time.
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_SGHN.gif" width="400" height="400"/>
 <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_SHNN.gif" width="400" height="400"/>
    </div>
+    <div id="header" align="center">
+  <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_SympNetG.gif" width="400" height="400"/>
+<img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_SympNetLA.gif" width="400" height="400"/>
+   </div>
    <div id="header" align="center">
  <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_HNN.gif" width="400" height="400"/>
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_NODE.gif" width="400" height="400"/>
@@ -40,6 +48,10 @@ There are four dynamic demos, and web page loading may take some time.
  <div id="header" align="center">
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_SGHN.gif" width="400" height="400"/>
 <img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_SHNN.gif" width="400" height="400"/>
+   </div>
+    <div id="header" align="center">
+  <img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_SympNetG.gif" width="400" height="400"/>
+<img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_SympNetLA.gif" width="400" height="400"/>
    </div>
    <div id="header" align="center">
  <img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_HNN.gif" width="400" height="400"/>
