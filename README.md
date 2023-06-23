@@ -11,7 +11,7 @@ If the dynamic demos cannot be loaded, you can also download the file to view th
 
 
 # FPU-KG system
-There are four dynamic demos, and web page loading may take some time.
+There are six dynamic demos, and web page loading may take some time.
 
 <div id="header" align="center">
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/MixFPU_SGHN.gif" width="400" height="400"/>
@@ -27,7 +27,7 @@ There are four dynamic demos, and web page loading may take some time.
   </div>
   
  # 2D zigzag system
- There are four dynamic demos, and web page loading may take some time.
+ There are six dynamic demos, and web page loading may take some time.
  
  <div id="header" align="center">
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/Zigzag_SGHN.gif" width="400" height="400"/>
@@ -43,7 +43,7 @@ There are four dynamic demos, and web page loading may take some time.
   </div>
   
    # 2D FK system
-   There are four dynamic demos, and web page loading may take some time.
+   There are six dynamic demos, and web page loading may take some time.
  
  <div id="header" align="center">
   <img src="https://github.com/GengRu93/GIFsave1/blob/main/2DFK_SGHN.gif" width="400" height="400"/>
